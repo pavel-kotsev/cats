@@ -6,3 +6,5 @@ okay, I'm testing withOUT GPG4Win installed
 
 maybe the correct path is
 C:/Program Files/Git/usr/bin/gpg.exe
+
+okay one more time from Visual Studio...
