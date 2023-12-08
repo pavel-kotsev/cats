@@ -1,2 +1,3 @@
 Adding a new file for the sake of testing signed commits.
 Okay, now, we'll try to modify this file and commit it, just this time with a signed commit.
+change
