@@ -3,3 +3,6 @@ Okay, now, we'll try to modify this file and commit it, just this time with a si
 change
 one more change
 okay, I'm testing withOUT GPG4Win installed
+
+maybe the correct path is
+C:/Program Files/Git/usr/bin/gpg.exe
